@@ -1,0 +1,25 @@
+* {
+    font-family: monospace, fantasy;
+}
+
+h1 {
+    text-align: center;
+    background-color: #dba87b ;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+li.main {
+    font-family: monospace, fantasy;
+    color: black;
+    font-size: 28px;
+    font-weight:600;
+}
+
+body {
+    background-color: #fefae0;
+}
+
+h4.recipe {
+    font-size: 20px;
+}
